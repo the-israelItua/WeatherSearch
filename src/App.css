@@ -1,0 +1,11 @@
+.spin {
+  position: absolute;
+  top: 50%;
+  left: 45%;
+}
+
+@media (min-width: 760px) {
+  .disp {
+    margin-left: 10rem;
+  }
+}
